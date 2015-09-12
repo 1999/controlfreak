@@ -38,7 +38,8 @@
 
   "content_scripts": [{
     "matches": ["*://*/*"],
-    "js": ["js/dom.js", "js/content.js"]
+    "js": ["js/dom.js", "js/content.js"],
+    "run_at": "document_end"
   }],
 
   "permissions": ["tabs", "storage", "*://*/*", "unlimitedStorage", "notifications"]
