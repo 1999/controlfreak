@@ -35,13 +35,13 @@ var config = {
 		"AngularJS": {
 			Google: {
 				placeholder: "http://ajax.googleapis.com/ajax/libs/angularjs/%version%/angular.min.js",
-				versions: ["1.2.12", "1.1.4", "1.0.6"]
+				versions: ["1.4.2", "1.3.17", "1.2.12", "1.1.4", "1.0.6"]
 			}
 		},
 		"Backbone": {
 			CloudFlare: {
 				placeholder: "http://cdnjs.cloudflare.com/ajax/libs/backbone.js/%version%/backbone-min.js",
-				versions: ["1.1.2", "1.0.0", "0.9.10"]
+				versions: ["1.2.3", "1.1.2", "1.0.0", "0.9.10"]
 			}
 		},
 		"Bootstrap (CSS)": {
@@ -85,21 +85,21 @@ var config = {
 		"jQuery": {
 			Google: {
 				placeholder: "http://ajax.googleapis.com/ajax/libs/jquery/%version%/jquery.min.js",
-				versions: ["2.1.0", "2.0.2", "1.10.1", "1.9.1", "1.8.3", "1.7.2", "1.6.4", "1.5.2", "1.4.4"]
+				versions: ["2.1.0", "2.0.2", "1.11.3", "1.10.1", "1.9.1", "1.8.3", "1.7.2", "1.6.4", "1.5.2", "1.4.4"]
 			},
 			Yandex: {
 				placeholder: "http://yandex.st/jquery/%version%/jquery.min.js",
-				versions: ["2.1.0", "2.0.2", "1.10.1", "1.9.1", "1.8.3", "1.7.2", "1.6.4", "1.5.2", "1.4.4"]
+				versions: ["2.1.0", "2.0.2", "1.11.2", "1.10.1", "1.9.1", "1.8.3", "1.7.2", "1.6.4", "1.5.2", "1.4.4"]
 			}
 		},
 		"jQuery UI": {
 			Google: {
 				placeholder: "http://ajax.googleapis.com/ajax/libs/jqueryui/%version%/jquery-ui.min.js",
-				versions: ["1.10.4", "1.10.3", "1.9.2", "1.8.23"]
+				versions: ["1.11.4", "1.10.4", "1.10.3", "1.9.2", "1.8.23"]
 			},
 			Yandex: {
 				placeholder: "http://yandex.st/jquery-ui/%version%/jquery-ui.min.js",
-				versions: ["1.10.4", "1.10.3", "1.9.2", "1.8.23"]
+				versions: ["1.11.2", "1.10.4", "1.10.3", "1.9.2", "1.8.23"]
 			}
 		},
 		"Knockout": {
@@ -165,7 +165,7 @@ var config = {
 		"socket.io": {
 			CloudFlare: {
 				placeholder: "http://cdnjs.cloudflare.com/ajax/libs/socket.io/%version%/socket.io.min.js",
-				versions: ["0.9.16", "0.9.10"]
+				versions: ["1.3.6", "0.9.16", "0.9.10"]
 			}
 		},
 		"SWFObject": {
@@ -187,7 +187,7 @@ var config = {
 		"Web Font Loader": {
 			Google: {
 				placeholder: "http://ajax.googleapis.com/ajax/libs/webfont/%version%/webfont.js",
-				versions: ["1.5.2", "1.4.6", "1.3.0"]
+				versions: ["1.5.18", "1.5.2", "1.4.6", "1.3.0"]
 			}
 		},
 		"YUI Library (YUI)": {
