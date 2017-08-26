@@ -1,4 +1,6 @@
 ## Control Freak
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/1999/controlfreak.svg)](https://greenkeeper.io/)
 This is a **Chrome extension** which supports lightweight page hacking, **similar to GreaseMonkey** in some respects.
 You get a toolbar button which lets you edit JS or CSS for all web pages, current domain or current page.
 
