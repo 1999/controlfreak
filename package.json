@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "devDependencies": {
-    "grunt": "0.4.x",
-    "grunt-cli": "0.1.13",
-    "hogan.js": "2.0.x"
+    "grunt": "~1.0.1",
+    "grunt-cli": "1.2.0",
+    "hogan.js": "~3.0.2"
   },
   "engines": {
     "node": ">=0.8"
